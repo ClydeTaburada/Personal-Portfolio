@@ -55,4 +55,37 @@ export const projects = [
 		image: '/images/serenity.webp',
 		description: 'Non-medical recovery housing bridging hospital discharge and independent living, built for hospital and case-manager referral partners.',
 	},
+
+		{
+		name: 'DB Master (Advanced Database System)',
+		type: 'Systems development',
+		status: 'Published',
+		link: 'https://advance-database-system.vercel.app/',
+		image: '/images/dbmaster.webp',
+		description: 'A browser-based database learning platform with an in-browser Postgres sandbox, live instructor-student sync, and a 9-module curriculum from SQL foundations to NoSQL and cloud architecture.',
+	},
+	{
+		name: 'Phil-Apex Placement Agency System',
+		type: 'Systems development',
+		status: 'Published',
+		link: 'https://phil-apex-zbt1.vercel.app/',
+		image: '/images/philapex.webp',
+		description: "Applicant management system for a DMW-licensed overseas placement agency, handling online applications, a staff portal, and program tracking for Japan's TITP and SSW deployment pipelines.",
+	},
+		{
+		name: 'TESDA Attendance Automation',
+		type: 'Systems development',
+		status: 'Published',
+		link: 'https://activity2-gg5a.vercel.app/',
+		image: '/images/tesda-attendance.webp',
+		description: 'A batch-based attendance tool for TESDA training programs that reads biometric sheet (BSRS) data and calculates trainee hours automatically, replacing manual computation.',
+	},
+	{
+		name: 'ResearchChecker',
+		type: 'Systems development',
+		status: 'Published',
+		link: 'https://github.com/ClydeTaburada/ResearchChecker',
+		image: '/images/researchchecker.webp',
+		description: 'A Flask app that uses Sentence-BERT similarity scoring to flag duplicate or overly similar thesis proposals, giving students and panelists an instant acceptable / similar / duplicate verdict.',
+	},
 ]
