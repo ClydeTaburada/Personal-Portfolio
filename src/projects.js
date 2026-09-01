@@ -76,7 +76,7 @@ export const projects = [
 		name: 'TESDA Attendance Automation',
 		type: 'Systems development',
 		status: 'Published',
-		link: 'https://activity2-gg5a.vercel.app/',
+		link: 'https://github.com/ClydeTaburada/Activity2/tree/main/Desktop/TeamsActivity-main',
 		image: '/images/tesda-attendance.webp',
 		description: 'A batch-based attendance tool for TESDA training programs that reads biometric sheet (BSRS) data and calculates trainee hours automatically, replacing manual computation.',
 	},
