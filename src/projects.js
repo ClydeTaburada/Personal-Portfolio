@@ -87,12 +87,5 @@ export const projects = [
 		link: 'https://github.com/ClydeTaburada/ResearchChecker',
 		image: '/images/researchchecker.webp',
 		description: 'A Flask app that uses Sentence-BERT similarity scoring to flag duplicate or overly similar thesis proposals, giving students and panelists an instant acceptable / similar / duplicate verdict.',
-	},{
-		name: 'RENE',
-		type: 'Systems development',
-		status: 'Published',
-		link: 'https://www.facebook.com/jevpatalighug/posts/an-open-appeal-to-milo-philippines-let-rene-clert-bobet-baterbonias-dream-inspir/27882958691288710/',
-		image: 'https://scontent.fcgy2-2.fna.fbcdn.net/v/t39.99422-6/721179210_1002033572237050_1993330537207215379_n.png?stp=dst-jpg_tt6&cstp=mx1122x1402&ctp=s1122x1402&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=1BhD3bjai2AQ7kNvwG8C7P_&_nc_oc=AdrjpuN6YL49Vh1GguGo2ZGQaUCEYeLUXadE19uXW6S-Pj6UF_PW87YT7W4QSL7BL1w&_nc_zt=14&_nc_ht=scontent.fcgy2-2.fna&_nc_gid=krrMjkf8T4A3-_qzRnoDAQ&_nc_ss=7b289&oh=00_AQP2hkg6Rwz_aEvXVIHuKTYUK4zNPkw1fm1py-Svka6H2A&oe=6AE62841',
-		description: 'A Flask app that uses Sentence-BERT similarity scoring to flag duplicate or overly similar thesis proposals, giving students and panelists an instant acceptable / similar / duplicate verdict.',
 	},
 ]
