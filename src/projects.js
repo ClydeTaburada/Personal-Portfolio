@@ -91,6 +91,7 @@ export const projects = [
 	{
 		name: 'RENE',
 		type: 'Systems development',
+		gender : 'Male',
 		status: 'Published',
 		link: 'https://en.wikipedia.org/wiki/Ren%C3%A9',
 		image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLYXmzEyWzEAGY6Xyg2zljQKBPOOvIeKn8eC7QN7DBrg&s=10',
