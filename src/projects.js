@@ -87,14 +87,6 @@ export const projects = [
 		link: 'https://github.com/ClydeTaburada/ResearchChecker',
 		image: '/images/researchchecker.webp',
 		description: 'A Flask app that uses Sentence-BERT similarity scoring to flag duplicate or overly similar thesis proposals, giving students and panelists an instant acceptable / similar / duplicate verdict.',
-	},
-	{
-		name: 'RENE',
-		type: 'Systems development',
-		gender : 'Male',
-		status: 'Published',
-		link: 'https://en.wikipedia.org/wiki/Ren%C3%A9',
-		image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLYXmzEyWzEAGY6Xyg2zljQKBPOOvIeKn8eC7QN7DBrg&s=10',
-		description: 'A Flask app that uses Sentence-BERT similarity scoring to flag duplicate or overly similar thesis proposals, giving students and panelists an instant acceptable / similar / duplicate verdict.',
 	}
+	
 ]
